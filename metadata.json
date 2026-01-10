@@ -1,0 +1,5 @@
+{
+  "name": "triangle-area",
+  "description": "An interactive educational tool demonstrating geometric principles of triangle area invariance.",
+  "requestFramePermissions": []
+}
